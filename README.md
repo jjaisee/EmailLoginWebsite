@@ -1,4 +1,4 @@
-# DIGITeblAssignment
+# EmailLoginWebsite
 Steps:
 1. Create an html page with a single input field and a submit button, this input field will only accept either a phone number or an email address
 2. On submit pass the input value to backend
